@@ -7,4 +7,7 @@ Female primordial germ cells (PGCs) undergo X chromosome reactivation (XCR) duri
 
 ### Data and code availability
 scRNA-seq data and CUT&RUN data in this study have been deposited to ArrayExpress and are available via the European Nucleotide Archive under accession numbers (ENA: E-MTAB-13535 and E-MTAB-13576). Code to reproduce the single-cell analysis and figures can be obtained from https://github.com/SangrithiLab/X-chromosome-reactivation.
-Here is the [code](http://htmlpreview.github.io/?https://github.com/SangrithiLab/X-chromosome-reactivation/blob/main/GCS_scanpy_submission_1Jul24.html))
+Here is the [code](http://htmlpreview.github.io/?https://github.com/SangrithiLab/X-chromosome-reactivation/blob/main/GCS_scanpy_submission_1Jul24.html)
+
+## Article link
+https://doi.org/10.1016/j.devcel.2024.12.028
